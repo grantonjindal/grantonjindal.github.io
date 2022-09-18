@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Chemical Engineering Principles"
+title: "Assistant in Instruction, Introduction to Chemical Engineering Principles, CBE 245"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-fall-teaching-1
