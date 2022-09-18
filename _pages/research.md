@@ -16,6 +16,10 @@ I am currently studying how the Foxf heart enhancer in *Ciona robusta* encodes p
 
 I demonstrated a ranking of MEK1 mutations found in RASopathies, which are a group of human developmental disorders, using functional assays in the embryonic zebrafish.
 
+Press: 
+[Fusion of multiple disciplines on display at Bioengineering Day](https://engineering.princeton.edu/news/2015/12/16/fusion-multiple-disciplines-display-bioengineering-day)
+[ Studies point way to precision therapies for common class of genetic disorders](https://www.princeton.edu/news/2017/02/06/studies-point-way-precision-therapies-common-class-genetic-disorders)
+
 ## Labeling proteins with non-canonical amino acids
 ![Using mutant tRNA synthetase to incorporate ANL](https://grantonjindal.github.io/images/MetANL.gif)
 
