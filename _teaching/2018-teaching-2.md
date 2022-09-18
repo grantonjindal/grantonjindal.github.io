@@ -1,7 +1,7 @@
 ---
 title: "Discussion leader, Monthly journal club on evolutionary developmental biology"
 collection: teaching
-type: "Workshop"
+type: "Discussion group"
 permalink: /teaching/2018-teaching-2
 venue: "UC San Diego, Biological Sciences"
 date: 2018-01-01
