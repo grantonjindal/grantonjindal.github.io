@@ -20,4 +20,4 @@ I demonstrated a ranking of MEK1 mutations found in RASopathies, human developme
 ![Using mutant tRNA synthetase to incorporate ANL](https://grantonjindal.github.io/images/MetANL.gif)
 
 
-Assisted in describing a mutant murine methionyl-tRNA-synthetase that charges the noncanonical amino acid azidonorleucine to elongator tRNA^Met^ in hamster (CHO), monkey (COS7), and human (HeLA) cell lines.
+Assisted in describing a mutant murine methionyl-tRNA-synthetase that charges the noncanonical amino acid azidonorleucine to elongator tRNA<sup>Met</sup> in hamster (CHO), monkey (COS7), and human (HeLA) cell lines.
