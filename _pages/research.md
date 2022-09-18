@@ -4,10 +4,10 @@ title: "Research"
 excerpt: "Research"
 ---
 
-# Transcriptional enhancers in development
-![Foxf enhancer expression in development](https://grantonjindal.github.io/images/Foxf.PNG)
+## Transcriptional enhancers in development
+![Foxf enhancer expression in development](https://grantonjindal.github.io/images/Foxf2.PNG)
 
 
-# Analyzing pathogenic MEK1 mutations in zebrafish
+## Analyzing pathogenic MEK1 mutations in zebrafish
 
-# Labeling proteins with non-canonical amino acids
+## Labeling proteins with non-canonical amino acids
