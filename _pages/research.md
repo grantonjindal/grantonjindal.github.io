@@ -12,4 +12,4 @@ excerpt: "Research"
 ![Effect of Pathogenic MEK variants](https://grantonjindal.github.io/images/AoverB.PNG)
 
 ## Labeling proteins with non-canonical amino acids
-![Using mutant tRNA synthetase to incorporate ANL](https://grantonjindal.github.io/images/Met ANL.gif)
+![Using mutant tRNA synthetase to incorporate ANL](https://grantonjindal.github.io/images/MetANL.gif)
