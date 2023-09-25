@@ -3,6 +3,10 @@ permalink: /publications/
 title: "Publications and preprints"
 excerpt: "Publications"
 ---
+- **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT. Electroporation of Ciona embryos. *In revision* at *STAR Protocols*
+
+- Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *Accepted in Principle*
+- 
 - **Jindal GA**, Bantle AT, Solvason JJ, Grudzien JL, D'Antonio-Chronowska A, Lim F, Le SH, Song BP, Ragsac MF, Klie A, Larsen RO, Frazer KA, Farley EK. Single nucleotide variants within heart enhancers dramatically increase binding affinity and disrupt heart development. *In press* at *Developmental Cell* [link](https://www.biorxiv.org/content/10.1101/2022.05.27.493636v1)
 
 - Song BP, Ragsac MF, Tellez K, **Jindal GA**, Grudzien JL, Le SH, Farley EK. Diverse logics and grammar encode notochord enhancers. *Cell Reports* 42, 112052 (2023). [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00063-3)
