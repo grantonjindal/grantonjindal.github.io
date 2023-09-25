@@ -3,9 +3,9 @@ permalink: /publications/
 title: "Publications and preprints"
 excerpt: "Publications"
 ---
-- **Jindal GA**, Tellez K, Song BP, Lim F, Farley EK. Enhancer libraries to test sufficiency of transcription factor binding sites. *In revision* at *STAR Protocols*
+- **Jindal GA**, Tellez K, Song BP, Lim F, Farley EK. Enhancer libraries to test sufficiency of transcription factor binding sites. *In revision*
 
-- **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Electroporation of Ciona embryos. *In revision* at *STAR Protocols*
+- **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Electroporation of Ciona embryos. *In revision*
 
 - Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *Accepted in Principle*
   
