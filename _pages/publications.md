@@ -7,7 +7,7 @@ excerpt: "Publications"
 
 - **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Electroporation of Ciona embryos. *In revision*
 
-- Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *Accepted in Principle*
+- Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *In press* at *Nature*
   
 - **Jindal GA**, Bantle AT, Solvason JJ, Grudzien JL, D'Antonio-Chronowska A, Lim F, Le SH, Song BP, Ragsac MF, Klie A, Larsen RO, Frazer KA, Farley EK. Single nucleotide variants within heart enhancers dramatically increase binding affinity and disrupt heart development. *Dev. Cell.* 58:2206-2216 (2023). [link](https://www.cell.com/developmental-cell/fulltext/S1534-5807(23)00492-6)
 
