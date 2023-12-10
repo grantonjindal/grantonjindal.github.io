@@ -12,4 +12,4 @@ I am currently a Postdoctoral Fellow at UC San Diego in [Prof. Emma Farley's lab
 
 Previously, I graduated from Princeton University in 2017 with a Ph.D. in Chemical and Biological Engineering. I worked with [Prof. Stas Shvartsman](https://shvartsmanlab.com/) and [Prof. Becky Burdine](https://scholar.princeton.edu/burdinelab/home) on analyzing pathogenic MEK variants during zebrafish embryonic development. Before that, I graduated from Caltech in 2012 with a B.S. in Bioengineering. I am originally from New Jersey, and for fun I enjoy playing tennis, cooking vegetarian food, and hiking.
 
-My CV can be found [here](https://grantonjindal.github.io/files/Granton_Jindal_CV_Nov_7_2023_v2.pdf).
+My CV can be found [here](https://grantonjindal.github.io/files/Granton_Jindal_CV_Dec_8_2023.pdf).
