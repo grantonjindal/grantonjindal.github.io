@@ -11,7 +11,7 @@ excerpt: "Publications"
   
 - **Jindal GA**, Bantle AT, Solvason JJ, Grudzien JL, D'Antonio-Chronowska A, Lim F, Le SH, Song BP, Ragsac MF, Klie A, Larsen RO, Frazer KA, Farley EK. Single nucleotide variants within heart enhancers dramatically increase binding affinity and disrupt heart development. *Dev. Cell.* 58:2206-2216 (2023). [link](https://www.cell.com/developmental-cell/fulltext/S1534-5807(23)00492-6)
 
-- Song BP, Ragsac MF, Tellez K, **Jindal GA**, Grudzien JL, Le SH, Farley EK. Diverse logics and grammar encode notochord enhancers. *Cell Reports* 42, 112052 (2023). [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00063-3)
+- Song BP*, Ragsac MF*, Tellez K, **Jindal GA**, Grudzien JL, Le SH, Farley EK. Diverse logics and grammar encode notochord enhancers. *Cell Reports* 42, 112052 (2023). [link](https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00063-3)
 
 - Marmion RA, Yang L, Goyal Y, **Jindal GA**, Wetzel JL, Singh M, Schüpbach T, Shvartsman SY. Molecular mechanisms underlying cellular effects of human MEK1 mutations. *Mol. Biol. Cell.* 32:974-983 (2021). [link](https://www.molbiolcell.org/doi/pdf/10.1091/mbc.E20-10-0625)
 
