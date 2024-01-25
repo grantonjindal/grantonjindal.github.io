@@ -8,7 +8,7 @@ excerpt: "Research"
 ![Foxf enhancer expression in development](https://grantonjindal.github.io/images/Foxf2.PNG)
 
 
-I am currently studying how the Foxf heart enhancer in *Ciona robusta* encodes precise tissue-specific expression.
+I am currently studying how the Foxf cardiopharyngeal enhancer in *Ciona robusta* encodes precise tissue-specific expression.
 
 ## Analyzing pathogenic MEK1 mutations in embryonic development
 ![Effect of Pathogenic MEK variants](https://grantonjindal.github.io/images/AoverB.PNG)
