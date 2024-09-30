@@ -7,8 +7,11 @@ excerpt: "Research"
 ## Transcriptional enhancers in embryonic development
 ![Foxf enhancer expression in development](https://grantonjindal.github.io/images/Foxf2.PNG)
 
-
 I am currently studying how enhancers in encodee precise tissue-specific expression.
+
+Press: 
+
+[Extra Fingers and Hearts: Pinpointing Changes to Our Genetic Instructions That Disrupt Development]([https://engineering.princeton.edu/news/2015/12/16/fusion-multiple-disciplines-display-bioengineering-day](https://today.ucsd.edu/story/extra-fingers-and-hearts-pinpointing-changes-to-our-genetic-instructions-that-disrupt-development))
 
 ## Analyzing pathogenic MEK1 mutations in embryonic development
 ![Effect of Pathogenic MEK variants](https://grantonjindal.github.io/images/AoverB.PNG)
