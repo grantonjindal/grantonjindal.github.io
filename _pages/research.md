@@ -7,7 +7,7 @@ excerpt: "Research"
 ## Transcriptional enhancers in embryonic development
 ![Foxf enhancer expression in development](https://grantonjindal.github.io/images/Foxf2.PNG)
 
-I am currently studying how enhancers in encode precise tissue-specific expression.
+I am currently studying how enhancers encode precise tissue-specific expression.
 
 Press: 
 
