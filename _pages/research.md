@@ -11,7 +11,7 @@ I am currently studying how enhancers in encodee precise tissue-specific express
 
 Press: 
 
-[Extra Fingers and Hearts: Pinpointing Changes to Our Genetic Instructions That Disrupt Development]([https://engineering.princeton.edu/news/2015/12/16/fusion-multiple-disciplines-display-bioengineering-day](https://today.ucsd.edu/story/extra-fingers-and-hearts-pinpointing-changes-to-our-genetic-instructions-that-disrupt-development))
+[Extra Fingers and Hearts: Pinpointing Changes to Our Genetic Instructions That Disrupt Development](https://today.ucsd.edu/story/extra-fingers-and-hearts-pinpointing-changes-to-our-genetic-instructions-that-disrupt-development)
 
 ## Analyzing pathogenic MEK1 mutations in embryonic development
 ![Effect of Pathogenic MEK variants](https://grantonjindal.github.io/images/AoverB.PNG)
