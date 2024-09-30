@@ -4,7 +4,7 @@ title: "Publications and preprints"
 excerpt: "Publications"
 ---
 
-- **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Protocol to electroporate DNA plasmids into Ciona robusta embryos at the 1-cell stage. STAR Protocols. 5(3), 103107 (2024). [link](https://www.sciencedirect.com/science/article/pii/S2666166724002727)
+- **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Protocol to electroporate DNA plasmids into Ciona robusta embryos at the 1-cell stage. *STAR Protocols*. 5(3), 103107 (2024). [link](https://www.sciencedirect.com/science/article/pii/S2666166724002727)
 
 - Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *Nature* (2024). [link](https://www.nature.com/articles/s41586-023-06922-8)
   
