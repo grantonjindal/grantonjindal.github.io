@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at UC San Diego in [Prof. Emma Farley's lab](https://farleylab.com/) in the Departments of Medicine and Molecular Biology. I study how mutations in genomes affect embryonic development. 
+I am currently an Assistant Project Scientist at UC San Diego in [Prof. Emma Farley's lab](https://farleylab.com/) in the Departments of Medicine and Molecular Biology. I study how mutations in genomes affect embryonic development. 
 
 Previously, I graduated from Princeton University in 2017 with a Ph.D. in Chemical and Biological Engineering. I worked with [Prof. Stas Shvartsman](https://shvartsmanlab.com/) and [Prof. Becky Burdine](https://scholar.princeton.edu/burdinelab/home) on analyzing pathogenic MEK variants during zebrafish embryonic development. Before that, I graduated from Caltech in 2012 with a B.S. in Bioengineering. I am originally from New Jersey, and for fun I enjoy playing tennis, cooking vegetarian food, and hiking.
 
