@@ -4,6 +4,10 @@ title: "Publications and preprints"
 excerpt: "Publications"
 ---
 
+- Solvason JJ\*, Tellez K\*, Lim F\*, Wang Q, Song BP, Grudzien JL, Le SH, Olson KM, Jindal GA, Farley EK. Exhaustive perturbation of an enhancer reveals dependency-syntax encodes tissue-specificity. In Revision at *Nature Genetics*.
+
+- Xian S, Sears T, Bantle AT, Solvason JJ, Slay C, Tanaka K, **Jindal GA**, Dosset M, Farley EK, Carter HK, Zanetti M. A germline variant at the TERT locus predicts intra-tumor T cell exhaustion and response to immune checkpoint blockade. Preprint at SSRN. Posted Mar 30, 2026. [link](doi.org/10.2139/ssrn.6447251)
+
 - **Jindal GA**, Lim F, Tellez K, Song BP, Bantle AT, Farley EK. Protocol to electroporate DNA plasmids into Ciona robusta embryos at the 1-cell stage. *STAR Protocols*. 5(3), 103107 (2024). [link](https://www.sciencedirect.com/science/article/pii/S2666166724002727)
 
 - Lim F\*, Solvason JJ\*, Ryan GE\*, Le SH, **Jindal GA**, Steffen P, Jandu SK, Farley EK. Affinity-optimizing enhancer variants disrupt development. *Nature* (2024). [link](https://www.nature.com/articles/s41586-023-06922-8)
