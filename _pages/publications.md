@@ -4,7 +4,7 @@ title: "Publications and preprints"
 excerpt: "Publications"
 ---
 
-- Solvason JJ\*, Tellez K\*, Lim F\*, Wang Q, Song BP, Grudzien JL, Le SH, Olson KM, Jindal GA, Farley EK. Exhaustive perturbation of an enhancer reveals dependency-syntax encodes tissue-specificity. In Revision at *Nature Genetics*.
+- Solvason JJ\*, Tellez K\*, Lim F\*, Wang Q, Song BP, Grudzien JL, Le SH, Olson KM, **Jindal GA**, Farley EK. Exhaustive perturbation of an enhancer reveals dependency-syntax encodes tissue-specificity. In Revision at *Nature Genetics*.
 
 - Xian S, Sears T, Bantle AT, Solvason JJ, Slay C, Tanaka K, **Jindal GA**, Dosset M, Farley EK, Carter HK, Zanetti M. A germline variant at the TERT locus predicts intra-tumor T cell exhaustion and response to immune checkpoint blockade. Preprint at SSRN. Posted Mar 30, 2026. [link](https://doi.org/10.2139/ssrn.6447251)
 
